@@ -1,8 +1,8 @@
 # Restaurant-orders
 
-# Rest APi Nodejs Typscript Expressjs Mangoose 
+Rest APi Nodejs Typscript Expressjs Mangoose 
 
-# MongoDB
+MongoDB
 
 
 npm install
